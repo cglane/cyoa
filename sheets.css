@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.box {
+  position: absolute;
+  width: 100%;
+  background-image: url(http://selectitaly.com/emails/images/3drewind1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 800px; }
+  .box .hero {
+    width: 100%;
+    margin: auto;
+    margin-top: 25%;
+    text-align: center; }
+    .box .hero img {
+      display: inline-block;
+      width: 30%; }
+  .box .form {
+    width: 20%;
+    margin: auto;
+    position: relative; }
+    .box .form ™
+input {
+      width: 30%;
+      margin: auto; }
+  .box .score {
+    width: 200px;
+    height: 100px;
+    display: block; }

@@ -1,0 +1,33 @@
+.box{
+  position: absolute;
+  width: 100%;
+  background-image: url(http://selectitaly.com/emails/images/3drewind1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 800px;
+    .hero{
+      width: 100%;
+      margin:auto;
+      margin-top: 25%;
+      text-align: center;
+      img{
+        display: inline-block;
+        width: 30%;
+      }
+    }
+
+    .form{
+      width: 20%;
+      margin: auto;
+      position: relative;™
+      input{
+        width: 30%;
+        margin: auto;
+      }
+    }
+    .score{
+      width: 200px;
+      height: 100px;
+      display: block;
+      }
+    }
